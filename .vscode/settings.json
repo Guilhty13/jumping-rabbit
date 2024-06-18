@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "jumping-rabbit.sln"
+    "dotnet.defaultSolution": "jumping-rabbit.sln",
+    "git.ignoreLimitWarning": true
 }
