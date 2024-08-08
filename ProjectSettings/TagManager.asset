@@ -8,6 +8,8 @@ TagManager:
   - Cenoura
   - Money
   - Morte
+  - Inimigo
+  - Colisor
   layers:
   - Default
   - TransparentFX
