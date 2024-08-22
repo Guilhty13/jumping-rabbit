@@ -89,6 +89,7 @@ public class Player2 : MonoBehaviour
         if(other.gameObject.CompareTag("Money"))
         {
             Destroy(other.gameObject);
+            
         }
         if(other.gameObject.CompareTag("Cenoura"))
         {
